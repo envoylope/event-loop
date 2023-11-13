@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/asmblah/php-amqp-compat.git",
-                "reference": "25957ba91a739ae3f93a879f0da4695d51332dc6"
+                "reference": "14ff113fc5a1b5023a2f484a492c35578413047e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/asmblah/php-amqp-compat/zipball/25957ba91a739ae3f93a879f0da4695d51332dc6",
-                "reference": "25957ba91a739ae3f93a879f0da4695d51332dc6",
+                "url": "https://api.github.com/repos/asmblah/php-amqp-compat/zipball/14ff113fc5a1b5023a2f484a492c35578413047e",
+                "reference": "14ff113fc5a1b5023a2f484a492c35578413047e",
                 "shasum": ""
             },
             "require": {
@@ -53,7 +53,7 @@
                 "issues": "https://github.com/asmblah/php-amqp-compat/issues",
                 "source": "https://github.com/asmblah/php-amqp-compat/tree/event-loop-heartbeats"
             },
-            "time": "2023-11-13T04:21:28+00:00"
+            "time": "2023-11-13T04:53:46+00:00"
         },
         {
             "name": "paragonie/constant_time_encoding",
